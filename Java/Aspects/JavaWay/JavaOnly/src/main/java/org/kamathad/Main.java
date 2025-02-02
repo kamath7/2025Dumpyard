@@ -2,6 +2,9 @@ package org.kamathad;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+
+        HelloServiceBasic helloServiceBasic = new HelloServiceBasic();
+        helloServiceBasic.sayHello("Nangesh");
+
     }
 }
