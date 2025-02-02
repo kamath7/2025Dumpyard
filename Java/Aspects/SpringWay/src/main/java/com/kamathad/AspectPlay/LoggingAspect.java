@@ -9,4 +9,9 @@ import org.aspectj.lang.annotation.Before;
 @Aspect
 @Component
 public class LoggingAspect {
+
+    @Before("execution(* com.kamathad.AspectPlay.*.*(..))")
+    public void beforeMethod(){
+        System.out.println("sayHello is now running");
+    }
 }
