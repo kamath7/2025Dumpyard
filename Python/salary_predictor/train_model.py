@@ -16,3 +16,7 @@ regression.fit(X_train, y_train)
 
 print(regression.predict([[14]]))
 
+import pickle 
+with open("model.pkl", "wb") as f:
+    pickle.dump(regression, f)
+    print("Model saved successfully!")
