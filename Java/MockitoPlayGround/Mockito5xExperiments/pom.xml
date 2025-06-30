@@ -22,19 +22,19 @@
 	</properties>
 
 	<dependencies>
-		<!-- Core Spring Boot -->
+		<!-- Spring Boot Core -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
 		</dependency>
 
-		<!-- Mockito 5.x (comes transitively via spring-boot-starter-test in Boot 3.2+) -->
+		<!-- Spring Boot Test (includes Mockito 5, JUnit 5, Spring Test 6.x) -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 			<exclusions>
-				<!-- Remove JUnit 5 if you strictly want JUnit 4 -->
+				<!-- If you want JUnit 4 only -->
 				<exclusion>
 					<groupId>org.junit.vintage</groupId>
 					<artifactId>junit-vintage-engine</artifactId>
@@ -46,7 +46,7 @@
 			</exclusions>
 		</dependency>
 
-		<!-- Explicit JUnit 4 (optional but recommended for control) -->
+		<!-- JUnit 4 (optional) -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
