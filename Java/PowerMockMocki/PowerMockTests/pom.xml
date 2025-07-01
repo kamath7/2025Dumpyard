@@ -23,7 +23,7 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- Mockito -->
+        <!-- Mockito 2 -->
         <dependency>
             <groupId>org.mockito</groupId>
             <artifactId>mockito-core</artifactId>
@@ -31,7 +31,15 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- PowerMock Modules -->
+        <!-- PowerMock core (MUST HAVE) -->
+        <dependency>
+            <groupId>org.powermock</groupId>
+            <artifactId>powermock-core</artifactId>
+            <version>2.0.9</version>
+            <scope>test</scope>
+        </dependency>
+
+        <!-- PowerMock + JUnit 4 support -->
         <dependency>
             <groupId>org.powermock</groupId>
             <artifactId>powermock-module-junit4</artifactId>
@@ -39,6 +47,7 @@
             <scope>test</scope>
         </dependency>
 
+        <!-- PowerMock + Mockito 2 support -->
         <dependency>
             <groupId>org.powermock</groupId>
             <artifactId>powermock-api-mockito2</artifactId>
