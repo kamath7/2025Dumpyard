@@ -1,0 +1,10 @@
+/Users/adithyakamath/Desktop/2025Dump/2025Dumpyard/Rust/KanyeQuotes/target/debug/deps/libicu_normalizer-bc4f133e4e639019.rmeta: /Users/adithyakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/lib.rs /Users/adithyakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/properties.rs /Users/adithyakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/provider.rs /Users/adithyakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/uts46.rs
+
+/Users/adithyakamath/Desktop/2025Dump/2025Dumpyard/Rust/KanyeQuotes/target/debug/deps/libicu_normalizer-bc4f133e4e639019.rlib: /Users/adithyakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/lib.rs /Users/adithyakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/properties.rs /Users/adithyakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/provider.rs /Users/adithyakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/uts46.rs
+
+/Users/adithyakamath/Desktop/2025Dump/2025Dumpyard/Rust/KanyeQuotes/target/debug/deps/icu_normalizer-bc4f133e4e639019.d: /Users/adithyakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/lib.rs /Users/adithyakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/properties.rs /Users/adithyakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/provider.rs /Users/adithyakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/uts46.rs
+
+/Users/adithyakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/lib.rs:
+/Users/adithyakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/properties.rs:
+/Users/adithyakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/provider.rs:
+/Users/adithyakamath/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-2.0.0/src/uts46.rs:
